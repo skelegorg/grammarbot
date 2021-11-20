@@ -1,4 +1,5 @@
 # grammarbot!
+# change for the sake of change
 
 require 'discordrb'
 require_relative 'grammar/grammar'
