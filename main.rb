@@ -24,5 +24,9 @@ client.command :ping do |msg|
 	msg.reply "Pong!"
 end
 
+client.command :hi do |msg|
+	msg.reply "hello!"
+end
+
 at_exit { client.stop }
 client.run
