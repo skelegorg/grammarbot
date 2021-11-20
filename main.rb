@@ -28,5 +28,6 @@ client.command :hi do |msg|
 	msg.reply "hello!"
 end
 
+
 at_exit { client.stop }
 client.run
