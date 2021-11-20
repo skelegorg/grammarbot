@@ -2,6 +2,7 @@
 # grammarbot!
 
 
+
 require 'discordrb'
 require_relative 'grammar/grammar'
 
