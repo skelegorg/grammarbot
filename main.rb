@@ -1,6 +1,7 @@
 #!/home/pi/.rvm/rubies/ruby-3.0.0/bin/ruby
 # grammarbot!
 
+
 require 'discordrb'
 require_relative 'grammar/grammar'
 
