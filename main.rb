@@ -1,4 +1,4 @@
-#!/home/pi/.rvm/rubies/ruby-3.0.0/bin/ruby
+#!//home/pi/.rvm/gems/ruby-3.0.0 ruby
 # grammarbot!!
 
 require 'discordrb'
