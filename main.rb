@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 # grammarbot!
 
 require 'discordrb'
