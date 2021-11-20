@@ -2,7 +2,7 @@
 # grammarbot!
 
 
-require 'discordrb-3.4.0'
+require 'discordrb'
 require_relative 'grammar/grammar'
 
 config = File.foreach('config.txt').map { |line| line.split(' ').join(' ') }
